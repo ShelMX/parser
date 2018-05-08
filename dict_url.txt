@@ -1,1 +1,2 @@
 # place URL for parsing
+# {'class_url': {'name': 'link'} }
